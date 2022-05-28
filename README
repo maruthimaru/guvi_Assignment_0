@@ -1,0 +1,7 @@
+Select the option like a | b | c
+
+if you type a - > Login
+if you type b - > Registration
+if you type c - > Forget password
+
+First do the registration and check the login validation.
